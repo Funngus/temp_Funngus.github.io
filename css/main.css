@@ -1114,8 +1114,8 @@ header.header {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 1.375em;
+  font-family: Courgette, Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-size: 1.8em;
   font-weight: normal;
   line-height: 1.5;
   margin: 0;
